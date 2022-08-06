@@ -1,3 +1,14 @@
+### Hi there 👋, My name is Tapas sutrodhar
+![](https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all)
+
+
+Skills: C/ C++ 
+ 
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Tapas sutrodhar</h1>
 <h3 align="center">I am student.</h3>
 
